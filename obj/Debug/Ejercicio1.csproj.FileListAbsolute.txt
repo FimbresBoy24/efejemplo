@@ -1,0 +1,36 @@
+c:\users\administador\documents\visual studio 2012\Projects\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.exe.config
+c:\users\administador\documents\visual studio 2012\Projects\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.exe
+c:\users\administador\documents\visual studio 2012\Projects\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.pdb
+c:\users\administador\documents\visual studio 2012\Projects\Ejercicio1\Ejercicio1\bin\Debug\EntityFramework.dll
+c:\users\administador\documents\visual studio 2012\Projects\Ejercicio1\Ejercicio1\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\administador\documents\visual studio 2012\Projects\Ejercicio1\Ejercicio1\bin\Debug\EntityFramework.xml
+c:\users\administador\documents\visual studio 2012\Projects\Ejercicio1\Ejercicio1\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\administador\documents\visual studio 2012\Projects\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csprojResolveAssemblyReference.cache
+c:\users\administador\documents\visual studio 2012\Projects\Ejercicio1\Ejercicio1\obj\Debug\MainWindow.baml
+c:\users\administador\documents\visual studio 2012\Projects\Ejercicio1\Ejercicio1\obj\Debug\MainWindow.g.cs
+c:\users\administador\documents\visual studio 2012\Projects\Ejercicio1\Ejercicio1\obj\Debug\App.g.cs
+c:\users\administador\documents\visual studio 2012\Projects\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1_MarkupCompile.cache
+c:\users\administador\documents\visual studio 2012\Projects\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.g.resources
+c:\users\administador\documents\visual studio 2012\Projects\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.Properties.Resources.resources
+c:\users\administador\documents\visual studio 2012\Projects\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csproj.GenerateResource.Cache
+c:\users\administador\documents\visual studio 2012\Projects\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.exe
+c:\users\administador\documents\visual studio 2012\Projects\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.pdb
+c:\users\administador\documents\visual studio 2012\Projects\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.Migrations.EmpleadoTabla.resources
+C:\Users\administador\Desktop\Ejercicio1\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.exe.config
+C:\Users\administador\Desktop\Ejercicio1\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.exe
+C:\Users\administador\Desktop\Ejercicio1\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.pdb
+C:\Users\administador\Desktop\Ejercicio1\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.exe
+C:\Users\administador\Desktop\Ejercicio1\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.pdb
+C:\Users\administador\Desktop\Ejercicio1\Ejercicio1\Ejercicio1\bin\Debug\EntityFramework.dll
+C:\Users\administador\Desktop\Ejercicio1\Ejercicio1\Ejercicio1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\administador\Desktop\Ejercicio1\Ejercicio1\Ejercicio1\bin\Debug\EntityFramework.xml
+C:\Users\administador\Desktop\Ejercicio1\Ejercicio1\Ejercicio1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\administador\Desktop\Ejercicio1\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csprojResolveAssemblyReference.cache
+C:\Users\administador\Desktop\Ejercicio1\Ejercicio1\Ejercicio1\obj\Debug\MainWindow.baml
+C:\Users\administador\Desktop\Ejercicio1\Ejercicio1\Ejercicio1\obj\Debug\MainWindow.g.cs
+C:\Users\administador\Desktop\Ejercicio1\Ejercicio1\Ejercicio1\obj\Debug\App.g.cs
+C:\Users\administador\Desktop\Ejercicio1\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1_MarkupCompile.cache
+C:\Users\administador\Desktop\Ejercicio1\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.g.resources
+C:\Users\administador\Desktop\Ejercicio1\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.Migrations.EmpleadoTabla.resources
+C:\Users\administador\Desktop\Ejercicio1\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.Properties.Resources.resources
+C:\Users\administador\Desktop\Ejercicio1\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csproj.GenerateResource.Cache
