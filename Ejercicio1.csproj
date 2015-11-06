@@ -75,10 +75,15 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="mibd\demoEF.cs" />
+    <Compile Include="mibd\Departamento.cs" />
     <Compile Include="mibd\Empleado.cs" />
     <Compile Include="Migrations\201510281505111_EmpleadoTabla.cs" />
     <Compile Include="Migrations\201510281505111_EmpleadoTabla.Designer.cs">
       <DependentUpon>201510281505111_EmpleadoTabla.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201511061553333_deps.cs" />
+    <Compile Include="Migrations\201511061553333_deps.Designer.cs">
+      <DependentUpon>201511061553333_deps.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs">
@@ -96,6 +101,9 @@
     </Compile>
     <EmbeddedResource Include="Migrations\201510281505111_EmpleadoTabla.resx">
       <DependentUpon>201510281505111_EmpleadoTabla.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201511061553333_deps.resx">
+      <DependentUpon>201511061553333_deps.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
