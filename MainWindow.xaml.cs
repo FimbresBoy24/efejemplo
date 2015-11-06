@@ -114,5 +114,19 @@ namespace Ejercicio1
                 }
                 else { MessageBox.Show("Solo Numeros  #id"); }
         }
+
+        private void Button_Click_6(object sender, RoutedEventArgs e)
+        {
+            if (Regex.IsMatch(txtdeps.Text, @"^[a-zA-Z]+$"))
+            {
+            demoEF db = new demoEF();
+            Departamento dep = new Departamento();
+            dep.Nombre = txtdeps.Text;
+            db.Departamentos.Add(dep);
+            db.SaveChanges();
+           }
+            else { MessageBox.Show("Solo Letras en #departamento"); }
+        }
+        }
     }
-}
+
