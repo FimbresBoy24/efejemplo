@@ -127,6 +127,14 @@ namespace Ejercicio1
            }
             else { MessageBox.Show("Solo Letras en #departamento"); }
         }
+
+        private void Grid_Loaded_1(object sender, RoutedEventArgs e)
+        {
+            demoEF db=new demoEF();
+            CbDepartamentos.ItemsSource = db.Departamentos.ToList();
+            CbDepartamentos.DisplayMemberPath = "Nombre";
+            CbDepartamentos.SelectedValuePath = "Id";
+        }
         }
     }
 
