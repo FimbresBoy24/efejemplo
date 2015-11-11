@@ -35,3 +35,4 @@ C:\Users\administador\Desktop\Ejercicio1\Ejercicio1\Ejercicio1\obj\Debug\Ejercic
 C:\Users\administador\Desktop\Ejercicio1\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.Properties.Resources.resources
 C:\Users\administador\Desktop\Ejercicio1\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csproj.GenerateResource.Cache
 C:\Users\administador\Desktop\Ejercicio1\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.Migrations.deps.resources
+C:\Users\administador\Desktop\Ejercicio1\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.Migrations.Correcciondep.resources
